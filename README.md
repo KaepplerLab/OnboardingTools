@@ -7,5 +7,5 @@ Download the code using the following steps from terminal if using a Linux/Unix 
 sudo apt install git
 cd <working directory name>
 git clone https://github.com/KaepplerLab/OnboardingTools.git
-cd Onboarding Tools
+cd OnboardingTools
 ```
